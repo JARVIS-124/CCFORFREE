@@ -2,7 +2,7 @@
 
 
 sleep 2
-figlet HACKING FATHER
+figlet JARVIS
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
