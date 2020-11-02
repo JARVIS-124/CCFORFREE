@@ -5,7 +5,7 @@ get your free cc from here
 # Coded by Jarvis
 # iam not ensuring the CC are alive or have balance(maybe its dumbp)...if your lucky you will get your benefit
 
-! [cb](https://lh3.googleusercontent.com/cxhDqRmHmDxRlpTTfl9Djjt9vxRNT334QXqC1Suc9pm77r9Mto64Pn5ROeqk13Y66J9hKg=s170)
+![cb](https://cdn.discordapp.com/attachments/760031847992000512/772822064280371200/Screenshot_2020-11-02-19-24-58-13_84d3000e3f4017145260f7618db1d683.jpg)
 
 # INSTALLATION
 
