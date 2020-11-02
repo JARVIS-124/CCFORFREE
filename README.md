@@ -8,8 +8,8 @@ get your free cc from here
 # INSTALLATION
 
 ``` 
-cd FREECC
+cd CCFORFREE
 ls
-bash cc.sh
+bash jarvis_cc.sh
 
 ```
