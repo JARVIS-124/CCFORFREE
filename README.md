@@ -12,6 +12,7 @@ get your free cc from here
 # INSTALLATION
 
 ``` 
+git clone https://github.com/JARVIS-124/CCFORFREE.git
 cd CCFORFREE
 ls
 bash jarvis_cc.sh
